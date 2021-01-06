@@ -1,0 +1,134 @@
+body{
+    font-family: 'Oswald', sans-serif;
+}
+.head{
+    display: inline-block;
+}
+.navbar ul{
+    margin: 20px;
+}
+.navbar li{
+    float: right;
+    list-style: none;
+    margin: 13px 40px 41px;
+    font-size: 25px;
+}
+h1{
+    font-size: 50px;
+    margin: 0%;
+}
+.name-highlight{
+    color: rgb(233, 17, 136);
+}
+.x{
+    margin-top: 20%;
+}
+.half-width{
+    width: 39%;
+    float: left;
+    margin-left: 1%;
+    padding-left: 5%;
+
+
+}
+.half-width img{
+    width: 100%;
+}
+section{
+    height: 500px;
+    margin-bottom: 14%
+ 
+}
+.y{
+    padding-top: 9%;
+}
+p{
+    font-family: 'Dosis', sans-serif;
+    font-size: 21px;
+    font-weight: 300px;
+}
+
+
+.link-button{
+    text-decoration: none;
+    background-color: rgb(120 15 234);
+    background-image: linear-gradient(50deg, rgb(92, 21, 207));
+    border-radius: 10px;
+    padding: 12px 25px;
+    color: white;
+    font-weight: 600px;
+
+}
+.l{
+    color: salmon;
+}
+.w{
+color: slategrey;
+}
+h2{
+    font-size: 26px;
+    text-align: center;
+    padding: 4%;
+}
+#last-part{
+    background-color: #e2dfdd;
+    height: 800px;
+}
+.box{
+    width: 20%;
+    float: left;
+    margin-left: 1%;
+    padding: 1% 3%;
+    background-color: #e9efee;
+    border-radius: 20px;
+}
+.z{
+    padding-left: 10%;
+}
+.box img{
+    width: 100%;
+}
+.last-s {
+    background-image: url(img/Group_33094_1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: auto;
+    height: 53%;
+    width: 1146px;
+    width: 77% bo;
+    border-radius: 40px;
+}
+.l-link-button{
+    text-decoration: none;
+    background-color: rgb(120 15 234);
+    background-image: linear-gradient(50deg, rgb(92, 21, 207));
+    border-radius: 10px;
+    padding: 12px 25px;
+    color: white;
+    font-weight: 600px;
+}
+.th {
+    font-size: 65px;
+    margin: 0%;
+    color: white;
+    float: left;
+    padding: 80px 76px;
+}
+a.l-link-button {
+    float: right;
+    padding: 20px 61px;
+    background-color: #ff6a00;
+    font-size: 17px;
+    margin: 100px 52px;
+}
+h3.fth {
+    text-align: center;
+    font-size: 30px;
+    color: #8c7171;
+    padding-top: 85px;
+}
+.lasth{
+    font-size: 36px;
+    text-align: center;
+    padding: 3%;
+}
